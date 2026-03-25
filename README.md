@@ -1,1 +1,1 @@
-# RTA_AL
+# Analiza danych w czasie rzeczywistym
